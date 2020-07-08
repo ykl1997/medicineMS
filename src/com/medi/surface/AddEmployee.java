@@ -52,6 +52,7 @@ public class AddEmployee extends JFrame {
 		setTitle("\u6DFB\u52A0\u5458\u5DE5");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 442, 344);
+		setTitle("ÃÌº”‘±π§");
 		this.setLocationRelativeTo(null);
 		this.setResizable(false);
 		this.setIconImage(new ImageIcon("logo/logo.png").getImage());

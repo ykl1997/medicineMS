@@ -49,6 +49,7 @@ public class AddInput extends JFrame {
 	public AddInput() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 446, 234);
+		setTitle("Èë¿â");
 		this.setLocationRelativeTo(null);
 		this.setResizable(false);
 		this.setIconImage(new ImageIcon("logo/logo.png").getImage());

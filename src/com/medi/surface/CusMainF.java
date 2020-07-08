@@ -57,6 +57,7 @@ public class CusMainF extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				BuyMedicine buyMedicine = new BuyMedicine();
 				buyMedicine.setVisible(true);
+				dispose();
 			}
 		});
 		btnNewButton.setFont(new Font("ºÚÌå", Font.PLAIN, 14));
